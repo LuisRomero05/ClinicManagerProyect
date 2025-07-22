@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj": {}
+    "C:\\Users\\Luis Angel\\Desktop\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj": {
+    "C:\\Users\\Luis Angel\\Desktop\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Luis Angel\\Desktop\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj",
         "projectName": "ClinicManagerAPI",
-        "projectPath": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj",
+        "projectPath": "C:\\Users\\Luis Angel\\Desktop\\ClinicManagerAPI\\ClinicManagerAPI\\ClinicManagerAPI.csproj",
         "packagesPath": "C:\\Users\\Luis Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI\\ClinicManagerAPI\\obj\\",
+        "outputPath": "C:\\Users\\Luis Angel\\Desktop\\ClinicManagerAPI\\ClinicManagerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,7 +70,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
