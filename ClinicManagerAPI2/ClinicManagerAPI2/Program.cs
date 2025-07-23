@@ -1,4 +1,16 @@
+using ClinicManagerAPI2.Classes;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Agregar AppDbContext con la cadena de conexión desde appsettings.json
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ClinicManagerDB")));
+// Agregar controladores
+builder.Services.AddControllers();
+// Configurar Swagger/OpenAPI
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 // Add services to the container.
 

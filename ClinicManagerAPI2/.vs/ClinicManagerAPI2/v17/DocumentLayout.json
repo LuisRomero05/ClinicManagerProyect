@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\models\\dtos\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\models\\dtos\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|solutionrelative:clinicmanagerapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A359F39-BBCB-4CBF-B069-F4297FCE55A3}|ClinicManagerAPI2\\ClinicManagerAPI2.csproj|c:\\users\\luis angel\\documents\\github_institucional\\clinicmanagerproyect\\clinicmanagerapi2\\clinicmanagerapi2\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppointmentResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentResponseDto.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentResponseDto.cs",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:56:10.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:56:10.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppointmentCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentCreateDto.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentCreateDto.cs",
@@ -91,18 +90,17 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\DTOS\\Appointment\\AppointmentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:55:27.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:55:27.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Controllers\\AppointmentController.cs",
               "ToolTip": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "ClinicManagerAPI2\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAIwFIBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T00:33:43.235Z",
               "EditorCaption": ""
@@ -117,8 +115,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:32:52.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:32:52.022Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:31:33.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:31:33.893Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Controllers\\SpecialtyController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAmwNkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:23:49.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:23:49.537Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T00:22:25.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:22:25.503Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\Entities\\Specialty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:21:29.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:21:29.782Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\Entities\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:21:03.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:21:03.246Z"
             },
             {
               "$type": "Document",
@@ -195,44 +187,43 @@
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\Entities\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T00:20:33.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:20:33.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Models\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Models\\Entities\\Appointment.cs",
               "ToolTip": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Models\\Entities\\Appointment.cs",
               "RelativeToolTip": "ClinicManagerAPI2\\Models\\Entities\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T00:20:06.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Classes\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Classes\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Classes\\AppDbContext.cs",
               "RelativeToolTip": "ClinicManagerAPI2\\Classes\\AppDbContext.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T00:18:31.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Program.cs",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\Program.cs",
               "ToolTip": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\Program.cs",
               "RelativeToolTip": "ClinicManagerAPI2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T00:17:20.622Z",
               "EditorCaption": ""
@@ -240,15 +231,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ClinicManagerAPI2",
+              "Title": "ClinicManagerAPI2.csproj",
               "DocumentMoniker": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\ClinicManagerAPI2.csproj",
               "RelativeDocumentMoniker": "ClinicManagerAPI2\\ClinicManagerAPI2.csproj",
               "ToolTip": "C:\\Users\\Luis Angel\\Documents\\GitHub_Institucional\\ClinicManagerProyect\\ClinicManagerAPI2\\ClinicManagerAPI2\\ClinicManagerAPI2.csproj",
               "RelativeToolTip": "ClinicManagerAPI2\\ClinicManagerAPI2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-23T00:10:49.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T00:10:49.192Z"
             }
           ]
         }
