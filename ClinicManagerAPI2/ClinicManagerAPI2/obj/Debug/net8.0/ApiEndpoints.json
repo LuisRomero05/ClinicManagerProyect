@@ -112,6 +112,16 @@
   },
   {
     "ContainingType": "ClinicManagerAPI2.Controllers.AppointmentController",
+    "Method": "TestProtected",
+    "RelativePath": "api/Appointment/protected-test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicManagerAPI2.Controllers.AppointmentController",
     "Method": "Search",
     "RelativePath": "api/Appointment/search",
     "HttpMethod": "GET",

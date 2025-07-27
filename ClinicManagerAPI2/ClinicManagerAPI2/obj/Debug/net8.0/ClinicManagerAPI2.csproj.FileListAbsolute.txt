@@ -171,3 +171,4 @@ C:\Users\Luis Angel\Documents\GitHub_Institucional\ClinicManagerProyect\ClinicMa
 C:\Users\Luis Angel\Documents\GitHub_Institucional\ClinicManagerProyect\ClinicManagerAPI2\ClinicManagerAPI2\obj\Debug\net8.0\ClinicManagerAPI2.pdb
 C:\Users\Luis Angel\Documents\GitHub_Institucional\ClinicManagerProyect\ClinicManagerAPI2\ClinicManagerAPI2\obj\Debug\net8.0\ClinicManagerAPI2.genruntimeconfig.cache
 C:\Users\Luis Angel\Documents\GitHub_Institucional\ClinicManagerProyect\ClinicManagerAPI2\ClinicManagerAPI2\obj\Debug\net8.0\ref\ClinicManagerAPI2.dll
+C:\Users\Luis Angel\Documents\GitHub_Institucional\ClinicManagerProyect\ClinicManagerAPI2\ClinicManagerAPI2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

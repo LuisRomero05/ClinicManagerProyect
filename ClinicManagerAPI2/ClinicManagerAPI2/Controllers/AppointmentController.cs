@@ -3,11 +3,14 @@ using ClinicManagerAPI2.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ClinicManagerAPI2.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+   // [Authorize] // 👈 Esto aplica a todos los métodos de este controlador
+
     public class AppointmentController : ControllerBase
     {
         private readonly IConfiguration _config;
@@ -20,6 +23,18 @@ namespace ClinicManagerAPI2.Controllers
         }
 
         private SqlConnection GetConn() => new(_config.GetConnectionString("ClinicManagerDB"));
+
+        [Authorize]
+        [HttpGet("protected-test")]
+        public IActionResult TestProtected()
+        {
+            var userEmail = User?.Identity?.Name ?? "Usuario desconocido";
+            return Ok(new
+            {
+                message = $"¡Acceso autorizado! Bienvenido, {userEmail}.",
+                time = DateTime.Now
+            });
+        }
 
         [HttpGet("search")]
         public async Task<IActionResult> Search(
@@ -310,6 +325,7 @@ namespace ClinicManagerAPI2.Controllers
                 return StatusCode(500, new { error = ex.Message });
             }
         }
+ 
     }
 
     public class CreateAppointmentRequest
@@ -336,4 +352,5 @@ namespace ClinicManagerAPI2.Controllers
     {
         public string Notes { get; set; }
     }
+
 }

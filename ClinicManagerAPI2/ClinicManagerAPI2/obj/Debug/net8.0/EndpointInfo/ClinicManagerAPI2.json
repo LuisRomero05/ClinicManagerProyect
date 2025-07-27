@@ -2,9 +2,21 @@
   "openapi": "3.0.1",
   "info": {
     "title": "ClinicManagerAPI2",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
+    "/api/Appointment/protected-test": {
+      "get": {
+        "tags": [
+          "Appointment"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Appointment/search": {
       "get": {
         "tags": [
@@ -1241,6 +1253,17 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Introduce el token como: Bearer {tu_token_jwt}",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
     }
-  }
+  },
+  "security": [
+    { }
+  ]
 }

@@ -17,18 +17,18 @@ public class AuthController : ControllerBase
         _config = config;
     }
 
-    [HttpPost("login")]
-    public IActionResult Login([FromBody] UserLogin login)
-    {
-        // Simulación de validación. Reemplaza con DB real
-        if (login.Email == "admin@admin.com" && login.Password == "123456")
-        {
-            var token = GenerateToken(login.Email);
-            return Ok(new { token });
-        }
+    //[HttpPost("login")]
+    //public IActionResult Login([FromBody] UserLogin login)
+    //{
+    //    // Simulación de validación. Reemplaza con DB real
+    //    if (login.Email == "admin@admin.com" && login.Password == "123456")
+    //    {
+    //        var token = GenerateToken(login.Email);
+    //        return Ok(new { token });
+    //    }
 
-        return Unauthorized(new { message = "Credenciales inválidas" });
-    }
+    //    return Unauthorized(new { message = "Credenciales inválidas" });
+    //}
 
     private string GenerateToken(string email)
     {
